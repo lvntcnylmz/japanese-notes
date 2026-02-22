@@ -1,0 +1,7 @@
+[book]
+title = " My Japanese learning journal (私の日本語学習日記)"
+authors = ["Levent C. Yilmaz"]
+language = "en"
+
+[output.html]
+mathjax-support = true
