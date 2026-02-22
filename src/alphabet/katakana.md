@@ -1,5 +1,7 @@
 # Katakana （カタカナ）
 
+Learning katakana is about the same as learning hiragana, with a few Shyamalanian twists.
+
 | #   | K   | S   | T   | N   | H   | M   | Y   | R   | W   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ア  | カ  | サ  | タ  | ナ  | ハ  | マ  | ヤ  | ラ  | ワ  |
