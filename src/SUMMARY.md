@@ -7,3 +7,7 @@
 - [Hiragana](./alphabet/hiragara.md)
 - [Katakana](./alphabet/katakana.md)
 - [Kanji](./alphabet/kanji.md)
+
+# Vocabulary
+
+- [Basic Words](./vocabulary/basic-words.md)
